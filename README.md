@@ -1,5 +1,4 @@
 # Calculator
-project for codsoft
 from tkinter import *
 
 root = Tk()
